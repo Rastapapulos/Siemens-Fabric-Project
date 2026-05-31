@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 Project developed as part of my Master 1 LSCM (Logistics & Supply Chain Management) internship at **Siemens (CS HQ)** (2026). 
+**This project is part of a broader portfolio of data and logistics solutions I have developed.**
 The goal was to automate the collection of global logistics data and build a centralized operational tracking tool to monitor requests for extra spares at the HQ level.
 
 ## 🛠️ Data Architecture & Engineering (Microsoft Fabric)

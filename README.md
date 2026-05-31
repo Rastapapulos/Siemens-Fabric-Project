@@ -1,4 +1,4 @@
-# Siemens R4ES - Automated Data Solution & Dashboard
+# Siemens - Automated Data Solution & Dashboard
 
 ## 📌 Project Overview
 Project developed as part of my Master 1 LSCM (Logistics & Supply Chain Management) internship at **Siemens Customer Services Headquarters (CS HQ)** (2026). 

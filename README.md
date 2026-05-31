@@ -27,7 +27,7 @@ The interactive Power BI report is divided into multiple analytical pages to cov
 *   **R4ES Operatives Overview:** Daily operational tracking of active requests (such as "In Progress" or "Rejected").
 *   **TOTAL REQUESTS BY SH...:** Volume analysis and breakdown by shipper / shipping point.
 *   **Clearing:** Monitoring and resolution of clearing issues and bottlenecks.
-*   **BLACK LIST:** Identification and management of blocked orders, restricted entities, or anomalies.
+*   **BLACK LIST:** Identification and management of blocked orders, restricted entities, or anomalies (Blacklisted MLFBS)
 *   **Leading Time:** Deep dive into cycle times, lead times, and overall process responsiveness.
 *   **REQUESTS BY COUNTRY:** Geographical distribution of incoming supply chain requests.
 

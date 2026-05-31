@@ -26,8 +26,8 @@ To ensure optimal performance, **I developed custom SQL views directly on the da
 ## 📊 Dashboard Structure & Pages
 The interactive Power BI report is divided into multiple analytical pages to cover different operational needs of the supply chain:
 
-*   **SUMMARY:** Global high-level overview of the main logistics KPIs.
-*   **R4ES Operatives Overview:** Daily operational tracking of active requests (such as "In Progress" or "Rejected").
+*   **SUMMARY:** Global overview of the main logistics KPIs.
+*   **R4ES Operatives Overview:** Daily operational tracking of active requests.
 *   **TOTAL REQUESTS BY SHIPPING LOCATION:** Volume analysis by shipping location.
 *   **Clearing:** Monitoring and resolution of clearing issues and bottlenecks.
 *   **BLACK LIST:** Identification and management of blocked orders, restricted entities, or anomalies (Blacklisted MLFBS)

@@ -5,7 +5,7 @@ Project developed as part of my Master 1 LSCM (Logistics & Supply Chain Manageme
 The goal was to automate the collection of global logistics data and build a centralized operational tracking tool to monitor requests for extra spares at the HQ level.
 
 ## 🛠️ Data Architecture & Engineering (Microsoft Fabric)
-I designed and compared two end-to-end data architectures using **Microsoft Fabric** to extract data from multiple sources (SharePoint, Excel, CSV, SQL). 
+I designed and compared two end-to-end data architectures using **Microsoft Fabric** to extract data from multiple sources. 
 
 To ensure optimal performance, **I developed custom SQL views directly on the data lake** to transform and pre-aggregate the data before loading it into the semantic model.
 

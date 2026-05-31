@@ -28,7 +28,7 @@ The interactive Power BI report is divided into multiple analytical pages to cov
 
 *   **SUMMARY:** Global high-level overview of the main logistics KPIs.
 *   **R4ES Operatives Overview:** Daily operational tracking of active requests (such as "In Progress" or "Rejected").
-*   **TOTAL REQUESTS BY SH...:** Volume analysis and breakdown by shipper / shipping point.
+*   **TOTAL REQUESTS BY SHIPPING LOCATION:** Volume analysis by shipping location.
 *   **Clearing:** Monitoring and resolution of clearing issues and bottlenecks.
 *   **BLACK LIST:** Identification and management of blocked orders, restricted entities, or anomalies (Blacklisted MLFBS)
 *   **Leading Time:** Deep dive into cycle times, lead times, and overall process responsiveness.
